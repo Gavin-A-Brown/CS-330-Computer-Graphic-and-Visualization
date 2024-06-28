@@ -1,6 +1,7 @@
 # CS-330-Computer-Graphic-and-Visualization
 
-1.	How do I approach designing software? 
+1.	How do I approach designing software?
+
 o	What new design skills has your work on the project helped you to craft?
 
 This project created the opportunity to further refine my understanding of 3D object construction utilizing simple shapes.  Each of the objects chosen is a composite of at least three different shape meshes positioned to overlap or meet at the edges to create a single object, with the exception of the Icosahedron which is a single mesh.
